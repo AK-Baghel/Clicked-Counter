@@ -20,4 +20,5 @@ function decrease(){
 function reset(){
     document.querySelector('.counter').innerText=0;
     document.getElementById('num').value="";
+    total=0;
 }
